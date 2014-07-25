@@ -1,7 +1,7 @@
 Angular loading-spinner directive
 =================================
 
-Angular directive that allows you to add Font Awesome loading spinners to html elements, watching a bool value.
+Angular directive that allows you to add a loading state (Font Awesome spinner) to a html element.
 
 ## Install
 
