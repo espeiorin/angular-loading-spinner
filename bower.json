@@ -1,7 +1,7 @@
 {
   "name" : "loading-spinner",
   "version" : "0.3",
-  "homepage" : "https://github.com/xorna/angular-loading-spinner",
+  "homepage" : "https://github.com/espeiorin/angular-loading-spinner",
   "description" : "Angular directive that allows you to add Font Awesome loading spinners to html elements, watching a bool value.",
   "main" : "loading-spinner.js",
   "keywords" : [
